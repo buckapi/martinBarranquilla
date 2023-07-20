@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Montserrat';
     src: url('montserrat/Montserrat-SemiBold.eot');
-    src: url('montserrat/Montserrat-SemiBold.eot?#iefix') format('embedded-opentype'),
+    src: url('montserrat/Montserrat-SemiBold.eot?') format('embedded-opentype'),
         url('montserrat/Montserrat-SemiBold.woff2') format('woff2'),
         url('montserrat/Montserrat-SemiBold.woff') format('woff'),
         url('montserrat/Montserrat-SemiBold.ttf') format('truetype');
@@ -12,7 +12,7 @@
 @font-face {
     font-family: 'Montserrat';
     src: url('montserrat/Montserrat-Bold.eot');
-    src: url('montserrat/Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+    src: url('montserrat/Montserrat-Bold.eot?') format('embedded-opentype'),
         url('montserrat/Montserrat-Bold.woff2') format('woff2'),
         url('montserrat/Montserrat-Bold.woff') format('woff'),
         url('montserrat/Montserrat-Bold.ttf') format('truetype');
@@ -23,7 +23,7 @@
 @font-face {
     font-family: 'Montserrat';
     src: url('montserrat/Montserrat-Italic.eot');
-    src: url('montserrat/Montserrat-Italic.eot?#iefix') format('embedded-opentype'),
+    src: url('montserrat/Montserrat-Italic.eot?') format('embedded-opentype'),
         url('montserrat/Montserrat-Italic.woff2') format('woff2'),
         url('montserrat/Montserrat-Italic.woff') format('woff'),
         url('montserrat/Montserrat-Italic.ttf') format('truetype');
@@ -34,7 +34,7 @@
 @font-face {
     font-family: 'Montserrat';
     src: url('montserrat/Montserrat-LightItalic.eot');
-    src: url('montserrat/Montserrat-LightItalic.eot?#iefix') format('embedded-opentype'),
+    src: url('montserrat/Montserrat-LightItalic.eot?') format('embedded-opentype'),
         url('montserrat/Montserrat-LightItalic.woff2') format('woff2'),
         url('montserrat/Montserrat-LightItalic.woff') format('woff'),
         url('montserrat/Montserrat-LightItalic.ttf') format('truetype');
@@ -45,7 +45,7 @@
 @font-face {
     font-family: 'Montserrat';
     src: url('montserrat/Montserrat-Medium.eot');
-    src: url('montserrat/Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+    src: url('montserrat/Montserrat-Medium.eot?') format('embedded-opentype'),
         url('montserrat/Montserrat-Medium.woff2') format('woff2'),
         url('montserrat/Montserrat-Medium.woff') format('woff'),
         url('montserrat/Montserrat-Medium.ttf') format('truetype');
@@ -56,7 +56,7 @@
 @font-face {
     font-family: 'Montserrat';
     src: url('montserrat/Montserrat-Light.eot');
-    src: url('montserrat/Montserrat-Light.eot?#iefix') format('embedded-opentype'),
+    src: url('montserrat/Montserrat-Light.eot?') format('embedded-opentype'),
         url('montserrat/Montserrat-Light.woff2') format('woff2'),
         url('montserrat/Montserrat-Light.woff') format('woff'),
         url('montserrat/Montserrat-Light.ttf') format('truetype');
@@ -67,7 +67,7 @@
 @font-face {
     font-family: 'Montserrat';
     src: url('montserrat/Montserrat-SemiBoldItalic.eot');
-    src: url('montserrat/Montserrat-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+    src: url('montserrat/Montserrat-SemiBoldItalic.eot?') format('embedded-opentype'),
         url('montserrat/Montserrat-SemiBoldItalic.woff2') format('woff2'),
         url('montserrat/Montserrat-SemiBoldItalic.woff') format('woff'),
         url('montserrat/Montserrat-SemiBoldItalic.ttf') format('truetype');
@@ -78,7 +78,7 @@
 @font-face {
     font-family: 'Montserrat';
     src: url('montserrat/Montserrat-Regular.eot');
-    src: url('montserrat/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+    src: url('montserrat/Montserrat-Regular.eot?') format('embedded-opentype'),
         url('montserrat/Montserrat-Regular.woff2') format('woff2'),
         url('montserrat/Montserrat-Regular.woff') format('woff'),
         url('montserrat/Montserrat-Regular.ttf') format('truetype');
@@ -89,7 +89,7 @@
 @font-face {
     font-family: 'Montserrat';
     src: url('montserrat/Montserrat-MediumItalic.eot');
-    src: url('montserrat/Montserrat-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    src: url('montserrat/Montserrat-MediumItalic.eot?') format('embedded-opentype'),
         url('montserrat/Montserrat-MediumItalic.woff2') format('woff2'),
         url('montserrat/Montserrat-MediumItalic.woff') format('woff'),
         url('montserrat/Montserrat-MediumItalic.ttf') format('truetype');
@@ -100,7 +100,7 @@
 @font-face {
     font-family: 'Montserrat';
     src: url('montserrat/Montserrat-BoldItalic.eot');
-    src: url('montserrat/Montserrat-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    src: url('montserrat/Montserrat-BoldItalic.eot?') format('embedded-opentype'),
         url('montserrat/Montserrat-BoldItalic.woff2') format('woff2'),
         url('montserrat/Montserrat-BoldItalic.woff') format('woff'),
         url('montserrat/Montserrat-BoldItalic.ttf') format('truetype');
@@ -109,28 +109,28 @@
 }
 @font-face {
   font-family: 'Slimicons';
-  src:  url('slimicons/Slimicons.eot?ofrduu');
-  src:  url('slimicons/Slimicons.eot?ofrduu#iefix') format('embedded-opentype'),
-    url('slimicons/Slimicons.ttf?ofrduu') format('truetype'),
-    url('slimicons/Slimicons.woff?ofrduu') format('woff'),
-    url('slimicons/Slimicons.svg?ofrduu#Slimicons') format('svg');
+  src:  url('slimicons/Slimicons.eot');
+  src:  url('slimicons/Slimicons.eot') format('embedded-opentype'),
+    url('slimicons/Slimicons.ttf') format('truetype'),
+    url('slimicons/Slimicons.woff') format('woff'),
+    url('slimicons/Slimicons.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'FontAwesome';
-  src: url('fontawesome/fontawesome-webfont.eot?v=4.7.0');
-  src: url('fontawesome/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('fontawesome/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('fontawesome/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('fontawesome/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('fontawesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+  src: url('fontawesome/fontawesome-webfont.eot');
+  src: url('fontawesome/fontawesome-webfont.eot') format('embedded-opentype'), url('fontawesome/fontawesome-webfont.woff2') format('woff2'), url('fontawesome/fontawesome-webfont.woff') format('woff'), url('fontawesome/fontawesome-webfont.ttf') format('truetype'), url('fontawesome/fontawesome-webfont.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'elemis';
-  src:  url('elemis/elemis.eot?whe1db');
-  src:  url('elemis/elemis.eot?whe1db#iefix') format('embedded-opentype'),
-    url('elemis/elemis.ttf?whe1db') format('truetype'),
-    url('elemis/elemis.woff?whe1db') format('woff'),
-    url('elemis/elemis.svg?whe1db#elemis') format('svg');
+  src:  url('elemis/elemis.eot');
+  src:  url('elemis/elemis.eot') format('embedded-opentype'),
+    url('elemis/elemis.ttf') format('truetype'),
+    url('elemis/elemis.woff') format('woff'),
+    url('elemis/elemis.svg#elemis') format('svg');
   font-weight: normal;
   font-style: normal;
 }

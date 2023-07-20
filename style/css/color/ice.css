@@ -8,29 +8,29 @@
     background: rgba(158, 185, 215, 0.8);
 }
 a.hover:hover {
-    border-bottom: 1px solid #9eb9d7;
+    border-bottom: 1px solid #e6007e;
 }
 a {
-    color: #9eb9d7;
+    color: #e6007e;
 }
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #9eb9d7;
+    color: #e6007e;
 }
 .color-wrapper {
-    background: #9eb9d7;
+    background: #e6007e;
 }
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link.active,
 .navbar-nav .nav-link.highlighted {
-    color: #9eb9d7;
+    color: #e6007e;
 }
 .navbar .social-mute a:hover i {
-    color: #9eb9d7;
+    color: #e6007e;
 }
 .btn {
-    background: #9eb9d7;
+    background: #e6007e;
 }
 .btn:hover,
 .btn:focus,
@@ -39,31 +39,31 @@ a:focus {
     background: #89a6c6;
 }
 .btn.btn-border {
-    border: 2px solid #9eb9d7;
-    color: #9eb9d7;
+    border: 2px solid #e6007e;
+    color: #e6007e;
 }
 .btn.btn-border:hover,
 .btn.btn-border:focus,
 .btn.btn-border:active,
 .btn.btn-border.active {
-    border: 2px solid #9eb9d7;
-    background: #9eb9d7;
+    border: 2px solid #e6007e;
+    background: #e6007e;
     color: #FFF;
 }
 .btn-group .dropdown-menu>li>a:hover,
 .btn-group .dropdown-menu>li>a:focus {
-    color: #9eb9d7;
+    color: #e6007e;
 }
 .image-list li a:hover {
     color: #9eb9d7
 }
 .list-group-item.active {
-    background-color: #9eb9d7;
+    background-color: #e6007e;
     border-color: #9eb9d7
 }
 .cbp-filter-item.cbp-filter-item-active,
 .cbp-filter-item:hover {
-    color: #9eb9d7;
+    color: #e6007e;
 }
 .swiper-container-wrapper .swiper-pagination .swiper-pagination-bullet:hover,
 .swiper-container-wrapper .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
@@ -72,19 +72,19 @@ a:focus {
 .post-title a:hover,
 .more:hover,
 .meta a:hover {
-    color: #9eb9d7;
+    color: #e6007e;
 }
 .post-nav-wrapper a:hover {
-    color: #9eb9d7;
+    color: #e6007e;
 }
 .sidebox a:not(.btn):hover {
     color: #9eb9d7
 }
 #comments .info h6 a:hover {
-    color: #9eb9d7;
+    color: #e6007e;
 }
 .social-mute a:hover i {
-    color: #9eb9d7;
+    color: #e6007e;
 }
 .inverse-text .social-mute a:hover i {
     color: rgba(255, 255, 255, 0.75) !important;
@@ -102,33 +102,33 @@ a:focus {
 .accordion-wrapper.lined .card-header a,
 .accordion-wrapper.lined .card-header a:hover,
 .accordion-wrapper.lined .card-header a.collapsed:hover {
-    color: #9eb9d7;
-    border-color: #9eb9d7;
+    color: #e6007e;
+    border-color: #e6007e;
 }
 .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-item .nav-link:hover,
 .nav-tabs .nav-item .nav-link.active {
-    color: #9eb9d7;
+    color: #e6007e;
     border-color: #9eb9d7 !important;
 }
 .tooltip-inner {
-    background-color: #9eb9d7;
+    background-color: #e6007e;
 }
 .tooltip.bs-tooltip-auto[x-placement^=top] .arrow::before,
 .tooltip.bs-tooltip-top .arrow::before {
-    border-top-color: #9eb9d7;
+    border-top-color: #e6007e;
 }
 .tooltip.bs-tooltip-auto[x-placement^=right] .arrow::before,
 .tooltip.bs-tooltip-right .arrow::before {
-    border-right-color: #9eb9d7;
+    border-right-color: #e6007e;
 }
 .tooltip.bs-tooltip-auto[x-placement^=bottom] .arrow::before,
 .tooltip.bs-tooltip-bottom .arrow::before {
-    border-bottom-color: #9eb9d7;
+    border-bottom-color: #e6007e;
 }
 .tooltip.bs-tooltip-auto[x-placement^=left] .arrow::before,
 .tooltip.bs-tooltip-left .arrow::before {
-    border-left-color: #9eb9d7;
+    border-left-color: #e6007e;
 }
 textarea:focus,
 textarea.form-control:focus,
@@ -155,15 +155,15 @@ input[type="color"]:focus,
     background-color: #9eb9d7
 }
 .ratings:after {
-    color: #9eb9d7;
+    color: #e6007e;
 }
 .pagination ul>li>a:hover,
 .pagination ul>.active>a {
-    color: #9eb9d7;
+    color: #e6007e;
 }
 .pagination.bordered ul>li>a:hover,
 .pagination.bordered ul>.active>a {
-    color: #9eb9d7;
+    color: #e6007e;
 }
 .page-navi:not(.bg) a:hover {
     color: #9eb9d7
@@ -205,6 +205,6 @@ input[type="color"]:focus,
 }
 @media (min-width: 992px) {
     .navbar-nav>li>.dropdown-menu {
-        border-top: 2px solid #9eb9d7;
+        border-top: 2px solid #e6007e;
     }
 }
