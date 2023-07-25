@@ -385,7 +385,7 @@ h1.post-title,
 }
 .inner {
     padding-top: 100px;
-    padding-bottom: 100px;
+/*    padding-bottom: 100px;*/
 }
 .light-wrapper {
     background: #FFF;
@@ -895,7 +895,7 @@ img.octagon {
     background: rgba(21, 21, 21, 0.6)
 }
 .navbar.fixed.nav-wrapper-dark {
-    background: #1a2332;
+    background: #fff;
 }
 .navbar.opacity.nav-wrapper-light {
     background: rgba(255, 255, 255, 0.8)
@@ -962,7 +962,7 @@ img.octagon {
 .inverse-text .hamburger:before,
 .inverse-text .hamburger span,
 .inverse-text .hamburger:after {
-    background: #FFF;
+    background: #1a2332;
 }
 .hamburger.animate.active span {
     transform: scale(0);
@@ -5038,7 +5038,7 @@ video::-webkit-media-controls {
 .inverse-text .page-navi:not(.bg) a,
 .inverse-text .nav-tabs .nav-link:not(.active),
 .inverse-text .cbp-filter-item:not(.cbp-filter-item-active) {
-    color: #FFF !important
+    color: #e80183 !important
 }
 .inverse-text .pagination:not(.bg) ul>li>a:hover,
 .inverse-text .page-navi:not(.bg) a:hover,
@@ -5051,15 +5051,15 @@ video::-webkit-media-controls {
     color: #909090 !important;
 }
 .inverse-text .navbar-nav .nav-link {
-    color: rgb(230 0 126);
+    color: #1a2332;
 }
 .inverse-text .navbar-nav .nav-link:hover,
 .inverse-text .navbar-nav .nav-link.highlighted,
 .inverse-text .navbar-nav .nav-link.active {
-    color: rgba(255, 255, 255, 0.75);
+    color: #e80183;
 }
 .inverse-text .social-mute a i {
-    color: rgba(255, 255, 255, 1) !important;
+    color: #e80183 !important;
 }
 .inverse-text .social-mute a:hover i {
     color: rgba(255, 255, 255, 0.75) !important;
@@ -5762,7 +5762,7 @@ list-blue i {
         display: none !important
     }
     .navbar .navbar-collapse {
-        background: #1a2332;
+        background: #fff;
     }
     .navbar .container {
         width: 100%;
@@ -5780,7 +5780,7 @@ list-blue i {
         font-size: 14px;
         padding-left: 30px;
         padding-right: 30px;
-        color: rgba(255, 255, 255, 1) !important;
+        color: #1a2332 !important;
         padding-top: 10px;
         padding-bottom: 10px;
     }
@@ -5815,7 +5815,7 @@ list-blue i {
     .navbar-nav .nav-link:hover,
     .navbar-nav .nav-link.highlighted,
     .navbar-nav .nav-link.active {
-        color: rgba(255, 255, 255, 0.75) !important;
+        color: #e80183 !important;
     }
     .navbar .navbar-header {
         display: -ms-flexbox;
@@ -6105,7 +6105,7 @@ list-blue i {
     .navbar .navbar-header {
         padding-right: 20px;
         padding-left: 20px;
-            background: #1a2332;
+            background: #fff;
     }
     .box-layout .container > .navbar .navbar-header {
         padding-right: 0px;
