@@ -397,7 +397,7 @@ h1.post-title,
     background: #181818
 }
 footer.dark-wrapper {
-    background: #151515
+    background: #fff
 }
 .sub-footer.dark-wrapper {
     background: #111111;
@@ -2159,7 +2159,7 @@ a.more {
 a.more,
 .meta span:after,
 .meta * {
-    color: #aaa;
+    color: #1a2332;
 }
 a.more {
     display: block;
@@ -3099,6 +3099,7 @@ a.color-s-youtube-square:hover,
     position: relative;
     overflow: hidden;
     text-align: center;
+    border-radius: 15px;
 }
 figure.overlay img {
     opacity: 1;
@@ -3145,6 +3146,7 @@ figure.overlay img {
     position: absolute;
     width: 100%;
     height: 100%;
+    border-radius: 15px;
 }
 .overlay.color span.bg {
     background: rgba(76, 134, 229, 0.8);
@@ -5038,7 +5040,7 @@ video::-webkit-media-controls {
 .inverse-text .page-navi:not(.bg) a,
 .inverse-text .nav-tabs .nav-link:not(.active),
 .inverse-text .cbp-filter-item:not(.cbp-filter-item-active) {
-    color: #e80183 !important
+    color: #1a2332 !important
 }
 .inverse-text .pagination:not(.bg) ul>li>a:hover,
 .inverse-text .page-navi:not(.bg) a:hover,
@@ -5056,10 +5058,10 @@ video::-webkit-media-controls {
 .inverse-text .navbar-nav .nav-link:hover,
 .inverse-text .navbar-nav .nav-link.highlighted,
 .inverse-text .navbar-nav .nav-link.active {
-    color: #e80183;
+    color: #1a2332;
 }
 .inverse-text .social-mute a i {
-    color: #e80183 !important;
+    color: #1a2332 !important;
 }
 .inverse-text .social-mute a:hover i {
     color: rgba(255, 255, 255, 0.75) !important;

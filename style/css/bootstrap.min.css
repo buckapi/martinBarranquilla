@@ -4510,7 +4510,7 @@ input[type=button].btn-block,input[type=reset].btn-block,input[type=submit].btn-
 
     .navbar-expand-lg .navbar-collapse {
         display: -ms-flexbox!important;
-        display: flex!important;
+        display: contents;
         -ms-flex-preferred-size: auto;
         flex-basis: auto
     }
@@ -8607,7 +8607,7 @@ a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover {
 }
 
 .ml-auto,.mx-auto {
-/*    margin-left: auto;*/
+    margin-left: initial;
 }
 
 @media (min-width: 576px) {
