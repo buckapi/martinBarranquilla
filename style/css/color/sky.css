@@ -24,13 +24,13 @@ a:focus {
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link.active,
 .navbar-nav .nav-link.highlighted {
-    color: #1a2332;
+    color: #231b54;
 }
 .navbar .social-mute a:hover i {
     color: #dda125;
 }
 .btn {
-    background: #1a2332;
+    background: #231b54;
 }
 .btn:hover,
 .btn:focus,
